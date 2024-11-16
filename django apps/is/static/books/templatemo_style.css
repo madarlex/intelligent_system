@@ -1,0 +1,416 @@
+/*
+CSS Credit: http://www.templatemo.com/
+*/
+
+/* 
+Book Store Template 
+http://www.templatemo.com/preview/templatemo_086_book_store 
+*/
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+  font-family: Verdana, Arial, san-serif;
+  font-size: 11px;
+  color: #ffffff;
+  background: #4b4743;
+}
+
+a:link,
+a:visited {
+  color: #e6e154;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:active,
+a:hover {
+  color: #e6e154;
+  text-decoration: underline;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+
+.cleaner {
+  clear: both;
+  width: 100%;
+  height: 1px;
+  font-size: 1px;
+}
+
+.cleaner_with_height {
+  clear: both;
+  width: 100%;
+  height: 30px;
+  font-size: 1px;
+}
+
+.cleaner_with_width {
+  float: left;
+  width: 20px;
+  height: 30px;
+  font-size: 1px;
+}
+
+.buy_now_button a {
+  clear: both;
+  text-align: center;
+  display: block;
+  width: 100px;
+  padding: 4px 0 5px 0;
+  margin-bottom: 10px;
+  background: url(images/templatemo_btn_02.jpg) no-repeat center center;
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.detail_button a {
+  clear: both;
+  text-align: center;
+  display: block;
+  width: 100px;
+  padding: 4px 0 5px 0;
+  margin-bottom: 10px;
+  background: url(images/templatemo_btn_01.jpg) no-repeat center center;
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#templatemo_container {
+  width: 100%; /* Full viewport width */
+  height: 100%; /* Full viewport height */
+  margin: 0 auto;
+  background: #1c1c1b url(images/templatemo_bg.jpg) repeat-y center top;
+  background-size: cover; /* Make the background image cover the full container */
+}
+/* menu */
+
+#templatemo_menu {
+  clear: both;
+  width: 100%;
+  height: 45px;
+  background: url(images/templatemo_menu_bg.jpg) no-repeat center center;
+  background-size: cover;
+  display: flex; /* Enable flexbox on the menu container */
+  justify-content: center; /* Center-align content horizontally */
+  align-items: center;
+}
+
+#templatemo_menu ul {
+  padding: 13px 0 0 0;
+  margin: 0;
+  list-style: none;
+}
+
+#templatemo_menu ul li {
+  display: inline;
+}
+
+#templatemo_menu ul li a {
+  float: left;
+  padding: 0 20px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: #969547;
+}
+
+#templatemo_menu li a:hover,
+#templatemo_menu li .current {
+  color: #fcf88e;
+}
+
+/* end of menu*/
+
+/* header */
+#templatemo_header {
+  clear: both;
+  width: 100%;
+  height: 20vh;
+  padding: 0;
+  margin: 0;
+  background: url(images/templatemo_header_bg.jpg) no-repeat center center;
+  background-size: contain; /* Make the background image cover the full area */
+}
+
+#templatemo_header a,
+a:hover {
+  color: #ffffff;
+}
+
+#templatemo_header #templatemo_special_offers {
+  float: left;
+  font-size: 14px;
+  margin-top: 95px;
+  margin-left: 490px;
+  width: 180px;
+}
+
+#templatemo_special_offers a {
+  font-size: 12px;
+}
+
+#templatemo_special_offers p {
+  margin: 0 0 20px 0;
+}
+#templatemo_special_offers p span {
+  font-size: 18px;
+}
+
+#templatemo_header #templatemo_new_books {
+  float: left;
+  margin-top: 90px;
+  margin-left: 55px;
+  width: 180px;
+}
+
+#templatemo_new_books ul {
+  margin: 0 0 10px 0;
+  padding: 0 0 0 20px;
+}
+
+#templatemo_new_books li {
+  margin: 0;
+  padding: 0;
+}
+
+/* end of header */
+
+/* content */
+#templatemo_content {
+  clear: both;
+  width: 100%;
+  display: flex;
+}
+
+#templatemo_content #templatemo_content_left {
+  width: 350px;
+  padding: 10px;
+  background-color: #171716;
+  border: 1px solid #212120;
+  box-sizing: border-box;
+  margin-right: 20px;
+}
+
+#templatemo_content #templatemo_content_right {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#templatemo_content_left .templatemo_content_left_section {
+  clear: both;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #2b2b2a;
+  margin-bottom: 20px;
+  width: 330px;
+}
+
+.templatemo_content_left_section h1 {
+  font-size: 14px;
+  color: #cbc750;
+  padding: 0 0 5px 0;
+  margin: 0 0 10px 0;
+}
+
+.templatemo_content_left_section ul {
+  padding: 0;
+  margin: 0;
+}
+
+.templatemo_content_left_section ul li {
+  padding: 0 0 3px 10px;
+  list-style: none;
+}
+
+.templatemo_content_left_section ul li a {
+  font-weight: normal;
+  text-decoration: none;
+  color: #969547;
+}
+
+.templatemo_content_left_section li a:hover,
+.templatemo_content_left_section li .current {
+  color: #fcf88e;
+}
+
+#templatemo_content_right .templatemo_product_box {
+  width: 18%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #333;
+  display: flex;
+  flex-direction: column; /* Stacks elements vertically */
+}
+
+.product_image_container {
+  width: 30%; /* Full width for container */
+  flex: 0 0 30%; /* Image container takes up 30% height */
+  display: flex;
+  align-items: flex-start;
+}
+.product_image_and_description_container {
+  flex: 1; /* Fills remaining space */
+  width: 100%; /* Full width for container */
+  display: flex;
+  align-items: flex-start;
+  gap: 10px; /* Add spacing between image and description */
+}
+.product_image {
+  width: 100%; /* Responsive within container */
+  height: auto;
+}
+#templatemo_content_right h1 {
+  padding: 10px;
+  margin: 0 0 20px 0;
+  font-size: 15px;
+  color: #cbc750;
+  background: url(images/templatemo_h1_bg.jpg);
+}
+
+#templatemo_content_right h2 {
+  padding: 0 0 0 0;
+  margin: 0 0 20px 0;
+  font-size: 12px;
+  color: #e6e154;
+}
+
+#templatemo_content_right h3 {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-size: 18px;
+  color: #85391f;
+}
+
+#templatemo_content_right ul {
+  margin: 0 0 20px 0;
+  padding: 0 0 0 20px;
+  list-style: none;
+}
+
+#templatemo_content_right li {
+  padding: 0 0 3px 0;
+}
+
+#templatemo_content_right .image_panel {
+  float: left;
+  width: 150px;
+  margin-right: 20px;
+}
+
+#templatemo_content_right p {
+  text-align: justify;
+  padding: 0 0 8px 0;
+}
+
+.book_list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 10px;
+  justify-content: space-around;
+}
+
+.pagination {
+  margin-top: 20px; /* Add spacing above pagination */
+  text-align: center; /* Center-align pagination controls */
+}
+
+.templatemo_product_box h1 span {
+  font-weight: normal;
+}
+
+.templatemo_product_box img {
+  float: left;
+  margin-right: 20px;
+}
+
+.templatemo_product_box .product_info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.product_info p {
+  margin-bottom: 15px;
+}
+
+/* end of content */
+
+/* footer */
+#templatemo_footer {
+  clear: both;
+  width: 100%;
+  padding: 20px 0px 20px 0;
+  text-align: center;
+  border-top: 1px solid #25211e;
+  color: #999;
+  background-color: #111110;
+}
+
+#templatemo_footer a {
+  color: #fff;
+  font-weight: normal;
+}
+/* end of footer */
+
+.book_title {
+  overflow: hidden; /* Hide overflow */
+  text-overflow: ellipsis; /* Show ellipsis for long titles */
+  white-space: nowrap; /* Prevent text from wrapping to a new line */
+  font-size: 1.2em; /* Adjust font size as needed */
+  line-height: 1.2; /* Adjust line-height for vertical centering */
+  margin-bottom: 10px; /* Add spacing below title if needed */
+}
+.book_description {
+  flex: 1; /* Text takes up remaining space */
+  text-align: left;
+  width: 100%; /* Full width */
+}
+.button_container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: auto; /* Pushes buttons to the bottom of product_info */
+}
+
+.buy_now_button a,
+.detail_button a {
+  display: inline-block;
+  padding: 5px 15px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.recommended_books_section {
+  margin-top: 20px;
+}
+
+.recommended_books_list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.recommended_book_item {
+  text-align: center;
+  width: 150px;
+}
+.recommended_book_item img {
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
