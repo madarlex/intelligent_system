@@ -73,7 +73,7 @@ To get started with the project, clone the repository and follow the instruction
    (KNN)
 
 3. System design.
-   (Thanh does)
+   [(Thanh does)](https://drive.google.com/drive/my-drive?hl=vi)
 
 4. Description of the dataset used and preprocessing steps.
    (Read Dataset and Jupter Files to do this)
@@ -82,4 +82,7 @@ To get started with the project, clone the repository and follow the instruction
    (Read in books/admin.py)
 
 6. Evaluation results with clear metrics provided.
-   (Thanh will code one more file to evaluation results, Thang and Minh Anh will write reports)
+   - Read code in file evaluate_result.ipynb
+   - Use Jaccard distance to get 15 similar books as labels
+   - Compare result of KNN with Jaccard, to calculate FP, TP, FN, TN
+   - Then calculate precision, recall, accuracy
