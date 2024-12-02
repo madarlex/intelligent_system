@@ -46,15 +46,17 @@ To get started with the project, clone the repository and follow the instruction
 7. Run this for migration: python manage.py migrate
 8. Run this for starting apps: python manage.py runserver
 
+# Data Folder
+
 ## Dataset
 
 1. Raw file: book_all_best_001_050.jl
 2. Clean All Genres: genres.json => data for vectorizing (Read more about OneHotEncoding, Bag of words, There is code example and example result)
 3. Book Data for Apps: book_data.json, books_data_with_recommendations.json (The finalize one is books_data_with_recommendations containing vectors and recommended_books)
 
-# Jupyter Files
+## Jupyter Files
 
-1. test_methods_and_first_preprocessing_data.ipynb:
+1. first_preprocessing_data.ipynb:
 
    - There are some methods I test: Vectorized, Embedded -> Please run and see the results
    - Testing KNN models
@@ -62,7 +64,12 @@ To get started with the project, clone the repository and follow the instruction
    - Get 100 first records (100 books) then preprocessing it
 
 2. add_recommending_books.ipynb:
+
    - Update 100 first book records with gern_vectors and recommending books
+
+3. evaluate_result.ipynb
+   - Add labels for dataset by using jaccard distance
+   - Calculate Precision, Recall, Accuracy
 
 # Report
 
@@ -73,7 +80,7 @@ To get started with the project, clone the repository and follow the instruction
    (KNN)
 
 3. System design.
-   [(Thanh does)](https://drive.google.com/drive/my-drive?hl=vi)
+   (https://drive.google.com/drive/my-drive?hl=vi)
 
 4. Description of the dataset used and preprocessing steps.
    (Read Dataset and Jupter Files to do this)

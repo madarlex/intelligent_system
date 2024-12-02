@@ -693,23 +693,23 @@
             0
         ],
         "recommended_books": [
-            "Something Borrowed (Darcy & Rachel, #1)",
             "Replay",
-            "Tomorrow, and Tomorrow, and Tomorrow",
+            "Something Borrowed (Darcy & Rachel, #1)",
             "The Secret History",
-            "Gathering Blue (The Giver, #2)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Tomorrow, and Tomorrow, and Tomorrow",
             "The Winter of Our Discontent",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "The Very Secret Society of Irregular Witches",
+            "Gathering Blue (The Giver, #2)",
             "The Young Elites (The Young Elites, #1)",
             "Glass Sword (Red Queen, #2)",
             "Lost Identity (Remmich/Miller, #1)"
         ],
-        "price": 38
+        "price": 53
     },
     {
         "title_complete": "Uncle Tom\u2019s Cabin",
@@ -1407,21 +1407,21 @@
         "recommended_books": [
             "Dead Souls",
             "An American Tragedy",
-            "Les Liaisons dangereuses",
-            "The Winter of Our Discontent",
             "The Poisonwood Bible",
+            "The Winter of Our Discontent",
+            "Fathers and Sons",
             "Exodus",
             "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Fathers and Sons",
-            "Darkness at Noon",
-            "The Sign of Four (Sherlock Holmes, #2)",
+            "Les Liaisons dangereuses",
             "The Life and Opinions of Tristram Shandy, Gentleman",
-            "Grendel",
+            "Darkness at Noon",
             "Women",
+            "Grendel",
             "Ahab's Wife, or The Star-Gazer",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "Magenta"
         ],
-        "price": 77
+        "price": 99
     },
     {
         "title_complete": "The Poisonwood Bible",
@@ -2118,22 +2118,22 @@
         ],
         "recommended_books": [
             "Ahab's Wife, or The Star-Gazer",
-            "Uncle Tom\u2019s Cabin",
             "Exodus",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Fathers and Sons",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
+            "Uncle Tom\u2019s Cabin",
             "Les Liaisons dangereuses",
-            "Grendel",
-            "Darkness at Noon",
-            "Dead Souls",
+            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "The Painter's Apprentice (Venetian Artisans, #1)",
+            "Fathers and Sons",
             "An American Tragedy",
             "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Dead Souls",
+            "Grendel",
             "The Winter of Our Discontent",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "Darkness at Noon",
             "Magenta"
         ],
-        "price": 53
+        "price": 34
     },
     {
         "title_complete": "Blood River: A Journey to Africa\u2019s Broken Heart",
@@ -2832,20 +2832,20 @@
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
             "Steve Jobs",
             "84, Charing Cross Road",
+            "Just Kids",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "I'm Glad My Mom Died",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-            "Just Kids",
             "The Art of Happiness",
             "A Distant Mirror: The Calamitous 14th Century",
             "Honor and Polygamy",
-            "My Big Fat Zombie Goldfish",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Think and Grow Rich",
+            "Little Blue Truck",
             "Glass Sword (Red Queen, #2)",
-            "River God (Ancient Egypt, #1)",
-            "Oathbringer (The Stormlight Archive, #3)",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)"
+            "Little Owl's Night"
         ],
-        "price": 39
+        "price": 34
     },
     {
         "title_complete": "Ender's Shadow (The Shadow Series, #1)",
@@ -3542,22 +3542,22 @@
         ],
         "recommended_books": [
             "Monsters of Men (Chaos Walking, #3)",
-            "Replay",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "The Children of H\u00farin",
             "The Forever War (The Forever War, #1)",
-            "Fantastic Beasts and Where to Find Them",
-            "My Big Fat Zombie Goldfish",
-            "Oathbringer (The Stormlight Archive, #3)",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Max (Maximum Ride, #5)",
+            "Replay",
+            "The Children of H\u00farin",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Dragonflight (Dragonriders of Pern, #1)",
             "Glass Sword (Red Queen, #2)",
-            "The Young Elites (The Young Elites, #1)"
+            "Oathbringer (The Stormlight Archive, #3)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Fantastic Beasts and Where to Find Them",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "My Big Fat Zombie Goldfish",
+            "Gathering Blue (The Giver, #2)",
+            "Max (Maximum Ride, #5)"
         ],
-        "price": 70
+        "price": 46
     },
     {
         "title_complete": "What Lies in the Woods",
@@ -4253,23 +4253,23 @@
             0
         ],
         "recommended_books": [
-            "Kiss the Girls (Alex Cross, #2)",
             "The Secret History",
+            "Kiss the Girls (Alex Cross, #2)",
             "Off the Grid (Joe Pickett, #16)",
             "Christine",
             "Lost Identity (Remmich/Miller, #1)",
-            "The Sign of Four (Sherlock Holmes, #2)",
             "The Pandarus File",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "The Eight (The Eight, #1)",
             "Ghost Story",
-            "Never Let Me Go",
-            "Tomorrow, and Tomorrow, and Tomorrow",
             "Punk 57",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "The Very Secret Society of Irregular Witches"
+            "The Very Secret Society of Irregular Witches",
+            "Never Let Me Go"
         ],
-        "price": 90
+        "price": 54
     },
     {
         "title_complete": "Exodus",
@@ -4965,23 +4965,23 @@
             0
         ],
         "recommended_books": [
-            "Les Liaisons dangereuses",
+            "Uncle Tom\u2019s Cabin",
             "The Poisonwood Bible",
             "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Uncle Tom\u2019s Cabin",
+            "Les Liaisons dangereuses",
             "Magenta",
-            "Darkness at Noon",
             "Dead Souls",
-            "Ahab's Wife, or The Star-Gazer",
             "An American Tragedy",
+            "Darkness at Noon",
+            "Ahab's Wife, or The Star-Gazer",
             "Fathers and Sons",
             "The Winter of Our Discontent",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
             "Grace (The Shackleford Sisters #1)",
-            "My Brilliant Friend (The Neapolitan Novels, #1)"
+            "The Children of H\u00farin",
+            "The Sign of Four (Sherlock Holmes, #2)",
+            "The Life and Opinions of Tristram Shandy, Gentleman"
         ],
-        "price": 63
+        "price": 78
     },
     {
         "title_complete": "84, Charing Cross Road",
@@ -5679,21 +5679,21 @@
         "recommended_books": [
             "Steve Jobs",
             "I'm Glad My Mom Died",
-            "Just Kids",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-            "A Distant Mirror: The Calamitous 14th Century",
+            "Just Kids",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+            "A Distant Mirror: The Calamitous 14th Century",
             "Blood River: A Journey to Africa\u2019s Broken Heart",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
             "The Art of Happiness",
             "The Evening and the Morning (Kingsbridge, #0)",
-            "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "The Forever War (The Forever War, #1)",
-            "The Life and Opinions of Tristram Shandy, Gentleman"
+            "Think and Grow Rich",
+            "Exodus",
+            "The Winter of Our Discontent",
+            "My Brilliant Friend (The Neapolitan Novels, #1)"
         ],
-        "price": 30
+        "price": 90
     },
     {
         "title_complete": "It Ain't Me, Babe (Hades Hangmen, #1)",
@@ -6391,19 +6391,19 @@
         "recommended_books": [
             "Beautiful Disaster (Beautiful, #1)",
             "Punk 57",
-            "Complicate Me (The Good Ol' Boys, #1)",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
+            "Complicate Me (The Good Ol' Boys, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "What Lies in the Woods",
             "Claimed (Brides of the Kindred, #1)",
             "The Sun Is Also a Star",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Never Let Me Go",
-            "What Lies in the Woods",
-            "The Very Secret Society of Irregular Witches",
+            "Tomorrow, and Tomorrow, and Tomorrow",
             "Honor and Polygamy",
-            "I'm Glad My Mom Died",
-            "Kiss the Girls (Alex Cross, #2)"
+            "Christine",
+            "Replay"
         ],
         "price": 83
     },
@@ -7103,21 +7103,21 @@
         "recommended_books": [
             "The Spanish Love Deception (Spanish Love Deception, #1)",
             "Complicate Me (The Good Ol' Boys, #1)",
-            "Something Borrowed (Darcy & Rachel, #1)",
             "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Something Borrowed (Darcy & Rachel, #1)",
             "Punk 57",
-            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "The Sun Is Also a Star",
-            "Radio Silence",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
-            "Never Let Me Go",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "The Very Secret Society of Irregular Witches",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Never Let Me Go",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "Radio Silence",
+            "Tomorrow, and Tomorrow, and Tomorrow",
             "Honor and Polygamy",
-            "Monsters of Men (Chaos Walking, #3)"
+            "Replay"
         ],
-        "price": 41
+        "price": 92
     },
     {
         "title_complete": "The Very Secret Society of Irregular Witches",
@@ -7815,21 +7815,21 @@
         "recommended_books": [
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Shadow of Night (All Souls, #2)",
-            "Angels' Blood (Guild Hunter, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Angels' Blood (Guild Hunter, #1)",
             "Magic Bleeds (Kate Daniels, #4)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Destined for an Early Grave (Night Huntress, #4)",
-            "Never Let Me Go",
             "Christine",
-            "Replay",
+            "Never Let Me Go",
             "Oathbringer (The Stormlight Archive, #3)",
-            "Something Borrowed (Darcy & Rachel, #1)",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "Replay",
             "Tomorrow, and Tomorrow, and Tomorrow",
             "The Young Elites (The Young Elites, #1)",
-            "Claimed (Brides of the Kindred, #1)"
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "Claimed (Brides of the Kindred, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)"
         ],
-        "price": 37
+        "price": 95
     },
     {
         "title_complete": "Little Owl's Night",
@@ -8527,21 +8527,21 @@
         "recommended_books": [
             "The Going To Bed Book",
             "Little Blue Truck",
-            "Yertle the Turtle and Other Stories",
             "Creepy Carrots! (Creepy Tales!)",
+            "Yertle the Turtle and Other Stories",
             "My Big Fat Zombie Goldfish",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "From Manchester to the Arctic",
+            "Ender's Shadow (The Shadow Series, #1)",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "The Children of H\u00farin",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Ender's Shadow (The Shadow Series, #1)",
-            "From Manchester to the Arctic",
             "Adhaata Asao's Liege",
             "Lost Identity (Remmich/Miller, #1)",
             "Desert Outcast (Sovereign, #0.5)",
-            "An American Tragedy",
-            "The Life and Opinions of Tristram Shandy, Gentleman"
+            "Exodus",
+            "The Poisonwood Bible"
         ],
-        "price": 85
+        "price": 78
     },
     {
         "title_complete": "Claimed (Brides of the Kindred, #1)",
@@ -9239,21 +9239,21 @@
         "recommended_books": [
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Angels' Blood (Guild Hunter, #1)",
-            "Warm Bodies (Warm Bodies, #1)",
             "Destined for an Early Grave (Night Huntress, #4)",
-            "The Very Secret Society of Irregular Witches",
             "Rapture (Fallen, #4)",
             "Replay",
             "Max (Maximum Ride, #5)",
+            "The Very Secret Society of Irregular Witches",
+            "Warm Bodies (Warm Bodies, #1)",
             "Magic Bleeds (Kate Daniels, #4)",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "Never Let Me Go",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "The Evening and the Morning (Kingsbridge, #0)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Christine"
+            "Monsters of Men (Chaos Walking, #3)"
         ],
-        "price": 33
+        "price": 39
     },
     {
         "title_complete": "Destined for an Early Grave (Night Huntress, #4)",
@@ -9954,16 +9954,16 @@
             "Christine",
             "Rapture (Fallen, #4)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Ghost Story",
             "Claimed (Brides of the Kindred, #1)",
-            "Shadow of Night (All Souls, #2)",
             "The Very Secret Society of Irregular Witches",
+            "Shadow of Night (All Souls, #2)",
+            "Ghost Story",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "Oathbringer (The Stormlight Archive, #3)",
-            "Replay",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)"
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)"
         ],
         "price": 90
     },
@@ -10662,20 +10662,20 @@
         ],
         "recommended_books": [
             "Beautiful Disaster (Beautiful, #1)",
-            "Punk 57",
             "Something Borrowed (Darcy & Rachel, #1)",
+            "Punk 57",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
             "Call Me By Your Name (Call Me By Your Name, #1)",
             "The Sun Is Also a Star",
             "Complicate Me (The Good Ol' Boys, #1)",
             "Tomorrow, and Tomorrow, and Tomorrow",
-            "It Ain't Me, Babe (Hades Hangmen, #1)",
-            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
-            "Never Let Me Go",
-            "The Pandarus File",
-            "The Very Secret Society of Irregular Witches",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "What Lies in the Woods",
+            "Never Let Me Go",
+            "The Secret History",
             "Radio Silence",
-            "The Secret History"
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
+            "The Very Secret Society of Irregular Witches"
         ],
         "price": 73
     },
@@ -11377,19 +11377,19 @@
             "Magenta",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Grace (The Shackleford Sisters #1)",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
-            "River God (Ancient Egypt, #1)",
-            "Les Liaisons dangereuses",
-            "The Song of Achilles",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "Exodus",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "River God (Ancient Egypt, #1)",
+            "The Song of Achilles",
+            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Les Liaisons dangereuses",
             "The Eight (The Eight, #1)",
-            "The Poisonwood Bible",
-            "Shadow of Night (All Souls, #2)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "The Crystal Cave (Arthurian Saga, #1)"
+            "Monsters of Men (Chaos Walking, #3)",
+            "Uncle Tom\u2019s Cabin",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "The Poisonwood Bible"
         ],
-        "price": 37
+        "price": 85
     },
     {
         "title_complete": "Fathers and Sons",
@@ -12089,19 +12089,19 @@
             "Darkness at Noon",
             "Uncle Tom\u2019s Cabin",
             "The Poisonwood Bible",
-            "Grendel",
             "The Sign of Four (Sherlock Holmes, #2)",
+            "The Winter of Our Discontent",
+            "Exodus",
             "An American Tragedy",
             "The Life and Opinions of Tristram Shandy, Gentleman",
-            "The Winter of Our Discontent",
             "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Exodus",
-            "Ahab's Wife, or The Star-Gazer",
+            "Grendel",
             "Les Liaisons dangereuses",
+            "Ahab's Wife, or The Star-Gazer",
             "The Children of H\u00farin",
-            "The Painter's Apprentice (Venetian Artisans, #1)"
+            "My Brilliant Friend (The Neapolitan Novels, #1)"
         ],
-        "price": 36
+        "price": 57
     },
     {
         "title_complete": "Call Me By Your Name (Call Me By Your Name, #1)",
@@ -12799,21 +12799,21 @@
         "recommended_books": [
             "Radio Silence",
             "Tomorrow, and Tomorrow, and Tomorrow",
-            "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "The Secret History",
             "Never Let Me Go",
-            "Punk 57",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "The Sun Is Also a Star",
-            "Complicate Me (The Good Ol' Boys, #1)",
+            "The Secret History",
+            "Punk 57",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "Something Borrowed (Darcy & Rachel, #1)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "What Lies in the Woods",
+            "The Sun Is Also a Star",
             "From Manchester to the Arctic",
-            "Beautiful Disaster (Beautiful, #1)",
+            "Complicate Me (The Good Ol' Boys, #1)",
             "The Very Secret Society of Irregular Witches",
-            "Something Borrowed (Darcy & Rachel, #1)"
+            "Beautiful Disaster (Beautiful, #1)",
+            "What Lies in the Woods"
         ],
-        "price": 50
+        "price": 80
     },
     {
         "title_complete": "Think and Grow Rich",
@@ -13513,19 +13513,19 @@
             "Quiet: The Power of Introverts in a World That Can't Stop Talking",
             "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
             "Steve Jobs",
+            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+            "84, Charing Cross Road",
+            "Just Kids",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "I'm Glad My Mom Died",
-            "Just Kids",
-            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "A Distant Mirror: The Calamitous 14th Century",
-            "84, Charing Cross Road",
             "Lost Identity (Remmich/Miller, #1)",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
-            "The Sun Is Also a Star",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)"
+            "Punk 57",
+            "Call Me By Your Name (Call Me By Your Name, #1)"
         ],
-        "price": 74
+        "price": 60
     },
     {
         "title_complete": "Grace (The Shackleford Sisters #1)",
@@ -14221,23 +14221,23 @@
             0
         ],
         "recommended_books": [
-            "Les Liaisons dangereuses",
-            "Ahab's Wife, or The Star-Gazer",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
             "The Sunne in Splendour",
+            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Ahab's Wife, or The Star-Gazer",
+            "Les Liaisons dangereuses",
             "Magenta",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
-            "From Manchester to the Arctic",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Uncle Tom\u2019s Cabin",
-            "River God (Ancient Egypt, #1)",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
             "Exodus",
-            "The Poisonwood Bible"
+            "River God (Ancient Egypt, #1)",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "The Eight (The Eight, #1)",
+            "The Song of Achilles",
+            "The Painter's Apprentice (Venetian Artisans, #1)",
+            "The Poisonwood Bible",
+            "From Manchester to the Arctic",
+            "Uncle Tom\u2019s Cabin"
         ],
-        "price": 38
+        "price": 42
     },
     {
         "title_complete": "Little Blue Truck",
@@ -14935,21 +14935,21 @@
         "recommended_books": [
             "The Going To Bed Book",
             "Little Owl's Night",
-            "Yertle the Turtle and Other Stories",
             "Creepy Carrots! (Creepy Tales!)",
+            "Yertle the Turtle and Other Stories",
             "My Big Fat Zombie Goldfish",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "From Manchester to the Arctic",
+            "Ender's Shadow (The Shadow Series, #1)",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "The Children of H\u00farin",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Ender's Shadow (The Shadow Series, #1)",
-            "From Manchester to the Arctic",
             "Adhaata Asao's Liege",
             "Lost Identity (Remmich/Miller, #1)",
             "Desert Outcast (Sovereign, #0.5)",
-            "An American Tragedy",
-            "The Life and Opinions of Tristram Shandy, Gentleman"
+            "Exodus",
+            "The Poisonwood Bible"
         ],
-        "price": 31
+        "price": 45
     },
     {
         "title_complete": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
@@ -15650,18 +15650,18 @@
             "A Distant Mirror: The Calamitous 14th Century",
             "Steve Jobs",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
-            "Just Kids",
-            "I'm Glad My Mom Died",
             "The Art of Happiness",
-            "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "I'm Glad My Mom Died",
             "The Forever War (The Forever War, #1)",
+            "Just Kids",
+            "Blood River: A Journey to Africa\u2019s Broken Heart",
             "Magenta",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-            "My Brilliant Friend (The Neapolitan Novels, #1)"
+            "The Evening and the Morning (Kingsbridge, #0)"
         ],
-        "price": 32
+        "price": 85
     },
     {
         "title_complete": "Punk 57",
@@ -16361,19 +16361,19 @@
             "Complicate Me (The Good Ol' Boys, #1)",
             "Beautiful Disaster (Beautiful, #1)",
             "It Ain't Me, Babe (Hades Hangmen, #1)",
-            "The Sun Is Also a Star",
             "Call Me By Your Name (Call Me By Your Name, #1)",
+            "The Sun Is Also a Star",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Radio Silence",
-            "Never Let Me Go",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "The Very Secret Society of Irregular Witches",
             "What Lies in the Woods",
+            "Never Let Me Go",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Tomorrow, and Tomorrow, and Tomorrow",
+            "Radio Silence",
             "The Secret History",
             "Lost Identity (Remmich/Miller, #1)"
         ],
-        "price": 30
+        "price": 96
     },
     {
         "title_complete": "Replay",
@@ -17069,23 +17069,23 @@
             0
         ],
         "recommended_books": [
-            "Ender's Shadow (The Shadow Series, #1)",
             "Never Let Me Go",
+            "Ender's Shadow (The Shadow Series, #1)",
             "Claimed (Brides of the Kindred, #1)",
-            "Dragonflight (Dragonriders of Pern, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Monsters of Men (Chaos Walking, #3)",
+            "The Very Secret Society of Irregular Witches",
+            "Oathbringer (The Stormlight Archive, #3)",
             "The Forever War (The Forever War, #1)",
             "The Children of H\u00farin",
-            "The Very Secret Society of Irregular Witches",
             "The Evening and the Morning (Kingsbridge, #0)",
-            "Shadow of Night (All Souls, #2)",
-            "Oathbringer (The Stormlight Archive, #3)",
+            "Monsters of Men (Chaos Walking, #3)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "The Young Elites (The Young Elites, #1)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)"
+            "Dragonflight (Dragonriders of Pern, #1)",
+            "Angels' Blood (Guild Hunter, #1)"
         ],
-        "price": 82
+        "price": 83
     },
     {
         "title_complete": "I'm Glad My Mom Died",
@@ -17781,23 +17781,23 @@
             0
         ],
         "recommended_books": [
-            "Steve Jobs",
             "84, Charing Cross Road",
             "Just Kids",
+            "Steve Jobs",
+            "The Very Secret Society of Irregular Witches",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Never Let Me Go",
-            "The Art of Happiness",
-            "Punk 57",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "What Lies in the Woods",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
-            "Radio Silence",
+            "Punk 57",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "The Secret History",
-            "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "The Art of Happiness",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
             "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-            "It Ain't Me, Babe (Hades Hangmen, #1)"
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Never Let Me Go"
         ],
-        "price": 49
+        "price": 40
     },
     {
         "title_complete": "Christine",
@@ -18495,21 +18495,21 @@
         "recommended_books": [
             "Ghost Story",
             "What Lies in the Woods",
+            "Destined for an Early Grave (Night Huntress, #4)",
             "Kiss the Girls (Alex Cross, #2)",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Destined for an Early Grave (Night Huntress, #4)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "The Very Secret Society of Irregular Witches",
+            "Magic Bleeds (Kate Daniels, #4)",
             "The Pandarus File",
             "Off the Grid (Joe Pickett, #16)",
             "The Eight (The Eight, #1)",
             "Angels' Blood (Guild Hunter, #1)",
-            "Magic Bleeds (Kate Daniels, #4)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "The Secret History",
-            "Adhaata Asao's Liege",
-            "Lost Identity (Remmich/Miller, #1)"
+            "Desert Outcast (Sovereign, #0.5)",
+            "Adhaata Asao's Liege"
         ],
-        "price": 36
+        "price": 47
     },
     {
         "title_complete": "The Art of Happiness",
@@ -19210,18 +19210,18 @@
             "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-            "I'm Glad My Mom Died",
-            "Steve Jobs",
             "84, Charing Cross Road",
             "Just Kids",
+            "Steve Jobs",
+            "I'm Glad My Mom Died",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-            "A Distant Mirror: The Calamitous 14th Century",
             "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "A Distant Mirror: The Calamitous 14th Century",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Lost Identity (Remmich/Miller, #1)",
-            "The Forever War (The Forever War, #1)"
+            "Punk 57"
         ],
-        "price": 78
+        "price": 61
     },
     {
         "title_complete": "The Winter of Our Discontent",
@@ -19918,22 +19918,22 @@
         ],
         "recommended_books": [
             "An American Tragedy",
+            "The Life and Opinions of Tristram Shandy, Gentleman",
             "Uncle Tom\u2019s Cabin",
             "Women",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Fathers and Sons",
+            "The Poisonwood Bible",
             "Darkness at Noon",
             "Dead Souls",
             "The Children of H\u00farin",
-            "Never Let Me Go",
-            "The Poisonwood Bible",
-            "Fathers and Sons",
             "Grendel",
-            "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Never Let Me Go",
+            "Exodus",
             "The Secret History",
-            "Ahab's Wife, or The Star-Gazer"
+            "The Sign of Four (Sherlock Holmes, #2)",
+            "My Brilliant Friend (The Neapolitan Novels, #1)"
         ],
-        "price": 59
+        "price": 87
     },
     {
         "title_complete": "Something Borrowed (Darcy & Rachel, #1)",
@@ -20630,22 +20630,22 @@
         ],
         "recommended_books": [
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "Never Let Me Go",
             "Beautiful Disaster (Beautiful, #1)",
+            "Never Let Me Go",
+            "Tomorrow, and Tomorrow, and Tomorrow",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Punk 57",
+            "Replay",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "The Sun Is Also a Star",
-            "Replay",
-            "Punk 57",
-            "It Ain't Me, Babe (Hades Hangmen, #1)",
             "The Very Secret Society of Irregular Witches",
             "Lost Identity (Remmich/Miller, #1)",
-            "The Secret History",
-            "Radio Silence",
-            "The Evening and the Morning (Kingsbridge, #0)",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
+            "What Lies in the Woods",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
             "Call Me By Your Name (Call Me By Your Name, #1)"
         ],
-        "price": 70
+        "price": 71
     },
     {
         "title_complete": "Rapture (Fallen, #4)",
@@ -21344,20 +21344,20 @@
             "Angels' Blood (Guild Hunter, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "Destined for an Early Grave (Night Huntress, #4)",
-            "Claimed (Brides of the Kindred, #1)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Max (Maximum Ride, #5)",
-            "The Young Elites (The Young Elites, #1)",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Magic Bleeds (Kate Daniels, #4)",
+            "Claimed (Brides of the Kindred, #1)",
             "Warm Bodies (Warm Bodies, #1)",
+            "Magic Bleeds (Kate Daniels, #4)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "The Young Elites (The Young Elites, #1)",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "Ghost Story",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)"
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "Monsters of Men (Chaos Walking, #3)"
         ],
-        "price": 67
+        "price": 69
     },
     {
         "title_complete": "Glass Sword (Red Queen, #2)",
@@ -22058,18 +22058,18 @@
             "Monsters of Men (Chaos Walking, #3)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Max (Maximum Ride, #5)",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "Never Let Me Go",
+            "Oathbringer (The Stormlight Archive, #3)",
             "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "Gathering Blue (The Giver, #2)",
             "Warm Bodies (Warm Bodies, #1)",
             "Dragonflight (Dragonriders of Pern, #1)",
-            "Oathbringer (The Stormlight Archive, #3)",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Ender's Shadow (The Shadow Series, #1)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Never Let Me Go",
-            "Replay"
+            "Gathering Blue (The Giver, #2)",
+            "The Sun Is Also a Star"
         ],
-        "price": 50
+        "price": 42
     },
     {
         "title_complete": "My Brilliant Friend (The Neapolitan Novels, #1)",
@@ -22767,21 +22767,21 @@
         "recommended_books": [
             "The Painter's Apprentice (Venetian Artisans, #1)",
             "Tomorrow, and Tomorrow, and Tomorrow",
-            "The Poisonwood Bible",
-            "Ahab's Wife, or The Star-Gazer",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
             "Never Let Me Go",
-            "The Lady of the Tower (The Lydiard Chronicles, #1)",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "Ahab's Wife, or The Star-Gazer",
+            "The Poisonwood Bible",
             "Lost Identity (Remmich/Miller, #1)",
+            "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Magenta",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "The Secret History",
-            "From Manchester to the Arctic",
-            "The Winter of Our Discontent",
+            "Uncle Tom\u2019s Cabin",
             "The Evening and the Morning (Kingsbridge, #0)",
-            "A Suitable Boy (A Bridge of Leaves, #1)"
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "The Winter of Our Discontent",
+            "Fathers and Sons",
+            "Grace (The Shackleford Sisters #1)"
         ],
-        "price": 37
+        "price": 46
     },
     {
         "title_complete": "Darkness at Noon",
@@ -23480,20 +23480,20 @@
             "Fathers and Sons",
             "Dead Souls",
             "An American Tragedy",
-            "Les Liaisons dangereuses",
-            "Uncle Tom\u2019s Cabin",
             "The Winter of Our Discontent",
+            "Uncle Tom\u2019s Cabin",
+            "Exodus",
             "The Poisonwood Bible",
             "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Exodus",
+            "Les Liaisons dangereuses",
             "Women",
             "The Sign of Four (Sherlock Holmes, #2)",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
             "Ahab's Wife, or The Star-Gazer",
+            "Never Let Me Go",
             "The Children of H\u00farin",
-            "Grendel"
+            "The Life and Opinions of Tristram Shandy, Gentleman"
         ],
-        "price": 37
+        "price": 52
     },
     {
         "title_complete": "From Manchester to the Arctic",
@@ -24192,20 +24192,20 @@
             "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "Inara (Godfrey Davis, #3)",
             "Max (Maximum Ride, #5)",
-            "Grace (The Shackleford Sisters #1)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "The Sun Is Also a Star",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "Grace (The Shackleford Sisters #1)",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "Monsters of Men (Chaos Walking, #3)",
             "Radio Silence",
             "Call Me By Your Name (Call Me By Your Name, #1)",
-            "The Sun Is Also a Star",
             "The Pandarus File",
-            "Ender's Shadow (The Shadow Series, #1)",
             "Lost Identity (Remmich/Miller, #1)",
             "Honor and Polygamy",
-            "The Children of H\u00farin"
+            "Little Blue Truck"
         ],
-        "price": 98
+        "price": 44
     },
     {
         "title_complete": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -24905,19 +24905,19 @@
             "Think and Grow Rich",
             "The Art of Happiness",
             "Steve Jobs",
-            "Just Kids",
-            "A Distant Mirror: The Calamitous 14th Century",
+            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "84, Charing Cross Road",
+            "Just Kids",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "I'm Glad My Mom Died",
-            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+            "A Distant Mirror: The Calamitous 14th Century",
             "Lost Identity (Remmich/Miller, #1)",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "The Evening and the Morning (Kingsbridge, #0)"
+            "Christine",
+            "Punk 57"
         ],
-        "price": 49
+        "price": 71
     },
     {
         "title_complete": "Dead Souls",
@@ -25618,18 +25618,18 @@
             "Darkness at Noon",
             "An American Tragedy",
             "The Life and Opinions of Tristram Shandy, Gentleman",
-            "The Winter of Our Discontent",
-            "The Poisonwood Bible",
-            "The Sign of Four (Sherlock Holmes, #2)",
             "Exodus",
+            "The Poisonwood Bible",
+            "The Winter of Our Discontent",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "A Suitable Boy (A Bridge of Leaves, #1)",
             "Women",
             "Les Liaisons dangereuses",
-            "Grendel",
             "Ahab's Wife, or The Star-Gazer",
-            "The Children of H\u00farin"
+            "The Children of H\u00farin",
+            "Grendel"
         ],
-        "price": 55
+        "price": 94
     },
     {
         "title_complete": "Hollow City (Miss Peregrine's Peculiar Children, #2)",
@@ -26327,21 +26327,21 @@
         "recommended_books": [
             "Christine",
             "Ghost Story",
-            "The Eight (The Eight, #1)",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "Shadow of Night (All Souls, #2)",
-            "River God (Ancient Egypt, #1)",
-            "Rapture (Fallen, #4)",
-            "Warm Bodies (Warm Bodies, #1)",
-            "Max (Maximum Ride, #5)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Desert Outcast (Sovereign, #0.5)",
+            "Max (Maximum Ride, #5)",
+            "River God (Ancient Egypt, #1)",
+            "The Eight (The Eight, #1)",
+            "Rapture (Fallen, #4)",
+            "Dragonflight (Dragonriders of Pern, #1)",
+            "Warm Bodies (Warm Bodies, #1)",
+            "Shadow of Night (All Souls, #2)",
             "Adhaata Asao's Liege",
+            "Desert Outcast (Sovereign, #0.5)",
             "From Manchester to the Arctic",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Monsters of Men (Chaos Walking, #3)"
+            "Ender's Shadow (The Shadow Series, #1)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)"
         ],
-        "price": 90
+        "price": 55
     },
     {
         "title_complete": "The Sign of Four (Sherlock Holmes, #2)",
@@ -27039,21 +27039,21 @@
         "recommended_books": [
             "The Secret History",
             "Lost Identity (Remmich/Miller, #1)",
-            "Off the Grid (Joe Pickett, #16)",
             "What Lies in the Woods",
             "Kiss the Girls (Alex Cross, #2)",
-            "An American Tragedy",
-            "The Eight (The Eight, #1)",
-            "Fathers and Sons",
+            "Off the Grid (Joe Pickett, #16)",
             "Dead Souls",
             "Uncle Tom\u2019s Cabin",
-            "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "Darkness at Noon",
+            "The Eight (The Eight, #1)",
+            "An American Tragedy",
+            "Fathers and Sons",
+            "River God (Ancient Egypt, #1)",
             "Christine",
-            "The Pandarus File",
-            "Les Liaisons dangereuses"
+            "Darkness at Noon",
+            "The Children of H\u00farin",
+            "The Poisonwood Bible"
         ],
-        "price": 66
+        "price": 94
     },
     {
         "title_complete": "The Forever War (The Forever War, #1)",
@@ -27753,19 +27753,19 @@
             "Replay",
             "Dragonflight (Dragonriders of Pern, #1)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Never Let Me Go",
             "The Children of H\u00farin",
             "Gathering Blue (The Giver, #2)",
-            "Exodus",
+            "Never Let Me Go",
+            "The Sign of Four (Sherlock Holmes, #2)",
+            "Oathbringer (The Stormlight Archive, #3)",
+            "Fantastic Beasts and Where to Find Them",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Shadow of Night (All Souls, #2)",
-            "The Secret History",
-            "The Winter of Our Discontent",
+            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "Glass Sword (Red Queen, #2)",
-            "The Young Elites (The Young Elites, #1)",
-            "The Sign of Four (Sherlock Holmes, #2)"
+            "The Winter of Our Discontent",
+            "Exodus"
         ],
-        "price": 91
+        "price": 62
     },
     {
         "title_complete": "Siege and Storm (The Shadow and Bone Trilogy, #2)",
@@ -28463,21 +28463,21 @@
         "recommended_books": [
             "Glass Sword (Red Queen, #2)",
             "The Young Elites (The Young Elites, #1)",
-            "The Very Secret Society of Irregular Witches",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Rapture (Fallen, #4)",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Oathbringer (The Stormlight Archive, #3)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "The Very Secret Society of Irregular Witches",
             "Max (Maximum Ride, #5)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Shadow of Night (All Souls, #2)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Fantastic Beasts and Where to Find Them",
-            "The Evening and the Morning (Kingsbridge, #0)"
+            "Shadow of Night (All Souls, #2)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "Ender's Shadow (The Shadow Series, #1)"
         ],
-        "price": 68
+        "price": 84
     },
     {
         "title_complete": "Oathbringer (The Stormlight Archive, #3)",
@@ -29176,20 +29176,20 @@
             "The Children of H\u00farin",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Replay",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "Magic Bleeds (Kate Daniels, #4)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Glass Sword (Red Queen, #2)",
             "The Very Secret Society of Irregular Witches",
-            "The Crystal Cave (Arthurian Saga, #1)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Glass Sword (Red Queen, #2)",
             "Ender's Shadow (The Shadow Series, #1)",
             "Fantastic Beasts and Where to Find Them",
-            "The Young Elites (The Young Elites, #1)"
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "The Crystal Cave (Arthurian Saga, #1)",
+            "Dragonflight (Dragonriders of Pern, #1)",
+            "Magic Bleeds (Kate Daniels, #4)",
+            "The Young Elites (The Young Elites, #1)",
+            "Replay"
         ],
-        "price": 73
+        "price": 51
     },
     {
         "title_complete": "An American Tragedy",
@@ -29885,23 +29885,23 @@
             0
         ],
         "recommended_books": [
-            "The Winter of Our Discontent",
             "Uncle Tom\u2019s Cabin",
+            "The Winter of Our Discontent",
             "Darkness at Noon",
             "Dead Souls",
             "Women",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
-            "The Poisonwood Bible",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
             "Exodus",
             "Fathers and Sons",
             "The Sign of Four (Sherlock Holmes, #2)",
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "The Poisonwood Bible",
             "Les Liaisons dangereuses",
-            "Grendel",
             "Ahab's Wife, or The Star-Gazer",
-            "The Children of H\u00farin"
+            "The Children of H\u00farin",
+            "Grendel"
         ],
-        "price": 48
+        "price": 40
     },
     {
         "title_complete": "The Sun Is Also a Star",
@@ -30598,22 +30598,22 @@
         ],
         "recommended_books": [
             "Radio Silence",
-            "Beautiful Disaster (Beautiful, #1)",
-            "Punk 57",
+            "Something Borrowed (Darcy & Rachel, #1)",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
             "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Something Borrowed (Darcy & Rachel, #1)",
-            "Never Let Me Go",
+            "Punk 57",
+            "Beautiful Disaster (Beautiful, #1)",
             "Call Me By Your Name (Call Me By Your Name, #1)",
-            "Glass Sword (Red Queen, #2)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Max (Maximum Ride, #5)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "From Manchester to the Arctic",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Gathering Blue (The Giver, #2)"
+            "Glass Sword (Red Queen, #2)",
+            "Never Let Me Go",
+            "It Ain't Me, Babe (Hades Hangmen, #1)"
         ],
-        "price": 63
+        "price": 59
     },
     {
         "title_complete": "The Life and Opinions of Tristram Shandy, Gentleman",
@@ -31309,23 +31309,23 @@
             0
         ],
         "recommended_books": [
-            "Dead Souls",
             "The Winter of Our Discontent",
-            "Fathers and Sons",
-            "Les Liaisons dangereuses",
-            "The Poisonwood Bible",
-            "Women",
-            "Grendel",
+            "Dead Souls",
             "Uncle Tom\u2019s Cabin",
+            "Fathers and Sons",
             "An American Tragedy",
-            "Ahab's Wife, or The Star-Gazer",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
-            "The Children of H\u00farin",
+            "The Poisonwood Bible",
+            "Grendel",
+            "Women",
+            "Les Liaisons dangereuses",
             "Darkness at Noon",
-            "Never Let Me Go",
-            "Exodus"
+            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Ahab's Wife, or The Star-Gazer",
+            "Exodus",
+            "The Children of H\u00farin",
+            "Never Let Me Go"
         ],
-        "price": 65
+        "price": 94
     },
     {
         "title_complete": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
@@ -32021,23 +32021,23 @@
             0
         ],
         "recommended_books": [
-            "A Distant Mirror: The Calamitous 14th Century",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+            "A Distant Mirror: The Calamitous 14th Century",
             "Magenta",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
             "84, Charing Cross Road",
+            "Exodus",
             "Blood River: A Journey to Africa\u2019s Broken Heart",
             "Steve Jobs",
-            "Exodus",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Think and Grow Rich",
-            "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "The Art of Happiness",
+            "Monsters of Men (Chaos Walking, #3)",
+            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
             "I'm Glad My Mom Died",
-            "The Song of Achilles",
-            "My Brilliant Friend (The Neapolitan Novels, #1)"
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "The Sunne in Splendour",
+            "The Art of Happiness"
         ],
-        "price": 35
+        "price": 96
     },
     {
         "title_complete": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
@@ -32734,22 +32734,22 @@
         ],
         "recommended_books": [
             "Fantastic Beasts and Where to Find Them",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Gathering Blue (The Giver, #2)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Gathering Blue (The Giver, #2)",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Glass Sword (Red Queen, #2)",
-            "Magic Bleeds (Kate Daniels, #4)",
             "Oathbringer (The Stormlight Archive, #3)",
-            "My Big Fat Zombie Goldfish",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "The Young Elites (The Young Elites, #1)",
             "Ender's Shadow (The Shadow Series, #1)",
-            "Monsters of Men (Chaos Walking, #3)",
+            "Magic Bleeds (Kate Daniels, #4)",
+            "My Big Fat Zombie Goldfish",
             "The Crystal Cave (Arthurian Saga, #1)",
+            "The Young Elites (The Young Elites, #1)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Monsters of Men (Chaos Walking, #3)",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege"
         ],
-        "price": 57
+        "price": 56
     },
     {
         "title_complete": "Desert Outcast (Sovereign, #0.5)",
@@ -33438,22 +33438,22 @@
         ],
         "recommended_books": [
             "Adhaata Asao's Liege",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Yertle the Turtle and Other Stories",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Rapture (Fallen, #4)",
-            "Grendel",
-            "Ghost Story",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Gathering Blue (The Giver, #2)",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)",
             "Christine",
+            "Rapture (Fallen, #4)",
+            "Claimed (Brides of the Kindred, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "The Children of H\u00farin",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Max (Maximum Ride, #5)"
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Oathbringer (The Stormlight Archive, #3)",
+            "Replay",
+            "River God (Ancient Egypt, #1)"
         ],
-        "price": 44
+        "price": 85
     },
     {
         "title_complete": "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
@@ -34151,21 +34151,21 @@
         "recommended_books": [
             "Max (Maximum Ride, #5)",
             "From Manchester to the Arctic",
-            "Monsters of Men (Chaos Walking, #3)",
-            "The Sun Is Also a Star",
             "Beautiful Disaster (Beautiful, #1)",
-            "The Eight (The Eight, #1)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Radio Silence",
+            "The Sun Is Also a Star",
+            "Monsters of Men (Chaos Walking, #3)",
             "Glass Sword (Red Queen, #2)",
-            "Something Borrowed (Darcy & Rachel, #1)",
-            "River God (Ancient Egypt, #1)",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Off the Grid (Joe Pickett, #16)"
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "River God (Ancient Egypt, #1)",
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "The Pandarus File",
+            "The Eight (The Eight, #1)",
+            "Radio Silence"
         ],
-        "price": 90
+        "price": 100
     },
     {
         "title_complete": "The Evening and the Morning (Kingsbridge, #0)",
@@ -34862,22 +34862,22 @@
         ],
         "recommended_books": [
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "The Eight (The Eight, #1)",
             "River God (Ancient Egypt, #1)",
             "The Sunne in Splendour",
             "The Song of Achilles",
-            "Angels' Blood (Guild Hunter, #1)",
+            "The Eight (The Eight, #1)",
             "Oathbringer (The Stormlight Archive, #3)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Replay",
+            "The Very Secret Society of Irregular Witches",
             "Monsters of Men (Chaos Walking, #3)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "Shadow of Night (All Souls, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)"
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "Angels' Blood (Guild Hunter, #1)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Replay",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)"
         ],
-        "price": 100
+        "price": 84
     },
     {
         "title_complete": "Creepy Carrots! (Creepy Tales!)",
@@ -35575,21 +35575,21 @@
         "recommended_books": [
             "Yertle the Turtle and Other Stories",
             "The Going To Bed Book",
-            "Little Blue Truck",
             "Little Owl's Night",
-            "Desert Outcast (Sovereign, #0.5)",
+            "Little Blue Truck",
             "Adhaata Asao's Liege",
+            "Desert Outcast (Sovereign, #0.5)",
             "My Big Fat Zombie Goldfish",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Ghost Story",
             "Warm Bodies (Warm Bodies, #1)",
+            "Gathering Blue (The Giver, #2)",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Christine",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Gathering Blue (The Giver, #2)",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Fantastic Beasts and Where to Find Them"
         ],
-        "price": 66
+        "price": 34
     },
     {
         "title_complete": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
@@ -36290,18 +36290,18 @@
             "The Art of Happiness",
             "Steve Jobs",
             "I'm Glad My Mom Died",
+            "Destined for an Early Grave (Night Huntress, #4)",
+            "What Lies in the Woods",
+            "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "Punk 57",
-            "Replay",
             "Christine",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Something Borrowed (Darcy & Rachel, #1)",
-            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-            "Never Let Me Go",
-            "Just Kids",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Oathbringer (The Stormlight Archive, #3)"
+            "Replay",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "84, Charing Cross Road",
+            "Never Let Me Go"
         ],
-        "price": 36
+        "price": 40
     },
     {
         "title_complete": "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
@@ -37004,16 +37004,16 @@
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "Claimed (Brides of the Kindred, #1)",
             "Destined for an Early Grave (Night Huntress, #4)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Never Let Me Go",
-            "Christine",
-            "Replay",
             "Oathbringer (The Stormlight Archive, #3)",
-            "Something Borrowed (Darcy & Rachel, #1)",
+            "The Evening and the Morning (Kingsbridge, #0)",
             "Rapture (Fallen, #4)",
-            "The Young Elites (The Young Elites, #1)"
+            "Replay",
+            "The Young Elites (The Young Elites, #1)",
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "Christine",
+            "Never Let Me Go"
         ],
-        "price": 37
+        "price": 91
     },
     {
         "title_complete": "River God (Ancient Egypt, #1)",
@@ -37710,22 +37710,22 @@
         ],
         "recommended_books": [
             "The Eight (The Eight, #1)",
+            "The Song of Achilles",
             "The Evening and the Morning (Kingsbridge, #0)",
             "The Crystal Cave (Arthurian Saga, #1)",
-            "The Song of Achilles",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
             "Magenta",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Grace (The Shackleford Sisters #1)",
             "Christine",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "The Sign of Four (Sherlock Holmes, #2)",
-            "Ghost Story"
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "The Sunne in Splendour",
+            "Grace (The Shackleford Sisters #1)"
         ],
-        "price": 89
+        "price": 75
     },
     {
         "title_complete": "Monsters of Men (Chaos Walking, #3)",
@@ -38421,23 +38421,23 @@
             0
         ],
         "recommended_books": [
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Max (Maximum Ride, #5)",
-            "The Young Elites (The Young Elites, #1)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Glass Sword (Red Queen, #2)",
-            "Gathering Blue (The Giver, #2)",
+            "The Young Elites (The Young Elites, #1)",
             "Ender's Shadow (The Shadow Series, #1)",
+            "Gathering Blue (The Giver, #2)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "Warm Bodies (Warm Bodies, #1)",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "Never Let Me Go",
-            "The Evening and the Morning (Kingsbridge, #0)",
             "The Sun Is Also a Star",
-            "Replay",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "Dragonflight (Dragonriders of Pern, #1)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)"
+            "Replay",
+            "Never Let Me Go"
         ],
-        "price": 83
+        "price": 76
     },
     {
         "title_complete": "Magenta",
@@ -39131,20 +39131,20 @@
             "Exodus",
             "The Sunne in Splendour",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Ahab's Wife, or The Star-Gazer",
-            "A Distant Mirror: The Calamitous 14th Century",
-            "Grace (The Shackleford Sisters #1)",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-            "The Song of Achilles",
-            "The Eight (The Eight, #1)",
-            "Les Liaisons dangereuses",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "The Poisonwood Bible"
+            "Grace (The Shackleford Sisters #1)",
+            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+            "The Poisonwood Bible",
+            "River God (Ancient Egypt, #1)",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "The Eight (The Eight, #1)",
+            "Ahab's Wife, or The Star-Gazer",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "A Distant Mirror: The Calamitous 14th Century",
+            "The Painter's Apprentice (Venetian Artisans, #1)",
+            "Uncle Tom\u2019s Cabin"
         ],
-        "price": 77
+        "price": 97
     },
     {
         "title_complete": "Max (Maximum Ride, #5)",
@@ -39844,19 +39844,19 @@
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Warm Bodies (Warm Bodies, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Glass Sword (Red Queen, #2)",
             "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "Gathering Blue (The Giver, #2)",
+            "Glass Sword (Red Queen, #2)",
             "The Young Elites (The Young Elites, #1)",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "From Manchester to the Arctic",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Rapture (Fallen, #4)",
             "Claimed (Brides of the Kindred, #1)",
             "Ender's Shadow (The Shadow Series, #1)",
+            "Dragonflight (Dragonriders of Pern, #1)",
+            "From Manchester to the Arctic",
+            "Rapture (Fallen, #4)",
             "Desert Outcast (Sovereign, #0.5)"
         ],
-        "price": 82
+        "price": 71
     },
     {
         "title_complete": "Just Kids",
@@ -40559,16 +40559,16 @@
             "Blood River: A Journey to Africa\u2019s Broken Heart",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
-            "Punk 57",
-            "Think and Grow Rich",
-            "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "A Distant Mirror: The Calamitous 14th Century",
-            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
             "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-            "Lost Identity (Remmich/Miller, #1)",
-            "The Lady of the Tower (The Lydiard Chronicles, #1)"
+            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+            "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+            "Think and Grow Rich",
+            "Punk 57",
+            "A Distant Mirror: The Calamitous 14th Century",
+            "The Lady of the Tower (The Lydiard Chronicles, #1)",
+            "Lost Identity (Remmich/Miller, #1)"
         ],
-        "price": 30
+        "price": 93
     },
     {
         "title_complete": "Fantastic Beasts and Where to Find Them",
@@ -41264,23 +41264,23 @@
             0
         ],
         "recommended_books": [
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Gathering Blue (The Giver, #2)",
-            "Oathbringer (The Stormlight Archive, #3)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Dragonflight (Dragonriders of Pern, #1)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Ender's Shadow (The Shadow Series, #1)",
+            "Oathbringer (The Stormlight Archive, #3)",
+            "Dragonflight (Dragonriders of Pern, #1)",
             "The Young Elites (The Young Elites, #1)",
-            "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
-            "My Big Fat Zombie Goldfish",
-            "Replay",
-            "Monsters of Men (Chaos Walking, #3)",
-            "The Children of H\u00farin"
+            "Desert Outcast (Sovereign, #0.5)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Glass Sword (Red Queen, #2)",
+            "Replay"
         ],
-        "price": 31
+        "price": 46
     },
     {
         "title_complete": "The Children of H\u00farin",
@@ -41978,21 +41978,21 @@
         "recommended_books": [
             "Oathbringer (The Stormlight Archive, #3)",
             "Ender's Shadow (The Shadow Series, #1)",
-            "Dragonflight (Dragonriders of Pern, #1)",
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "Dragonflight (Dragonriders of Pern, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)",
-            "Replay",
             "The Winter of Our Discontent",
+            "Replay",
+            "The Crystal Cave (Arthurian Saga, #1)",
             "Grendel",
-            "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
-            "An American Tragedy",
+            "Adhaata Asao's Liege",
+            "Fathers and Sons",
             "The Forever War (The Forever War, #1)",
-            "The Sign of Four (Sherlock Holmes, #2)"
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Never Let Me Go"
         ],
-        "price": 100
+        "price": 39
     },
     {
         "title_complete": "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
@@ -42692,19 +42692,19 @@
             "Glass Sword (Red Queen, #2)",
             "Max (Maximum Ride, #5)",
             "The Young Elites (The Young Elites, #1)",
-            "Ender's Shadow (The Shadow Series, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Warm Bodies (Warm Bodies, #1)",
             "Gathering Blue (The Giver, #2)",
-            "Replay",
-            "Dragonflight (Dragonriders of Pern, #1)",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "Warm Bodies (Warm Bodies, #1)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Never Let Me Go",
-            "Fantastic Beasts and Where to Find Them",
             "The Evening and the Morning (Kingsbridge, #0)",
-            "Adhaata Asao's Liege"
+            "Never Let Me Go",
+            "Dragonflight (Dragonriders of Pern, #1)",
+            "Fantastic Beasts and Where to Find Them",
+            "Replay",
+            "Desert Outcast (Sovereign, #0.5)"
         ],
-        "price": 65
+        "price": 58
     },
     {
         "title_complete": "The Alaska Job (Case Lee, #12)",
@@ -43391,23 +43391,23 @@
             0
         ],
         "recommended_books": [
-            "Gathering Blue (The Giver, #2)",
-            "Yertle the Turtle and Other Stories",
-            "My Big Fat Zombie Goldfish",
-            "Radio Silence",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
-            "The Secret History",
-            "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Grendel",
-            "Ghost Story",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Kiss the Girls (Alex Cross, #2)",
-            "Adhaata Asao's Liege",
-            "Magenta",
-            "Monsters of Men (Chaos Walking, #3)"
+            "Never Let Me Go",
+            "Uncle Tom\u2019s Cabin",
+            "The Poisonwood Bible",
+            "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "What Lies in the Woods",
+            "Exodus",
+            "84, Charing Cross Road",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Beautiful Disaster (Beautiful, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Little Owl's Night",
+            "Claimed (Brides of the Kindred, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)"
         ],
-        "price": 74
+        "price": 77
     },
     {
         "title_complete": "Lost Identity (Remmich/Miller, #1)",
@@ -44101,23 +44101,23 @@
             0
         ],
         "recommended_books": [
+            "What Lies in the Woods",
             "The Sign of Four (Sherlock Holmes, #2)",
             "The Secret History",
-            "What Lies in the Woods",
             "Kiss the Girls (Alex Cross, #2)",
             "Off the Grid (Joe Pickett, #16)",
+            "Christine",
+            "Never Let Me Go",
             "The Eight (The Eight, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "Never Let Me Go",
             "The Pandarus File",
-            "Christine",
             "Inara (Godfrey Davis, #3)",
             "Honor and Polygamy",
-            "Ghost Story",
-            "The Winter of Our Discontent"
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)"
         ],
-        "price": 32
+        "price": 96
     },
     {
         "title_complete": "Yertle the Turtle and Other Stories",
@@ -44815,21 +44815,21 @@
         "recommended_books": [
             "The Going To Bed Book",
             "Creepy Carrots! (Creepy Tales!)",
-            "Little Blue Truck",
             "Little Owl's Night",
+            "Little Blue Truck",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "Women",
             "Gathering Blue (The Giver, #2)",
             "My Big Fat Zombie Goldfish",
-            "Dragonflight (Dragonriders of Pern, #1)",
-            "Grendel",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "Women",
             "The Children of H\u00farin",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "The Life and Opinions of Tristram Shandy, Gentleman"
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Dead Souls",
+            "Fantastic Beasts and Where to Find Them"
         ],
-        "price": 64
+        "price": 51
     },
     {
         "title_complete": "Adhaata Asao's Liege",
@@ -45518,22 +45518,22 @@
         ],
         "recommended_books": [
             "Desert Outcast (Sovereign, #0.5)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Yertle the Turtle and Other Stories",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Rapture (Fallen, #4)",
-            "Grendel",
-            "Ghost Story",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Gathering Blue (The Giver, #2)",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)",
             "Christine",
+            "Rapture (Fallen, #4)",
+            "Claimed (Brides of the Kindred, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "The Children of H\u00farin",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Max (Maximum Ride, #5)"
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Oathbringer (The Stormlight Archive, #3)",
+            "Replay",
+            "River God (Ancient Egypt, #1)"
         ],
-        "price": 38
+        "price": 91
     },
     {
         "title_complete": "Gathering Blue (The Giver, #2)",
@@ -46230,22 +46230,22 @@
         ],
         "recommended_books": [
             "Monsters of Men (Chaos Walking, #3)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Fantastic Beasts and Where to Find Them",
             "Max (Maximum Ride, #5)",
             "The Young Elites (The Young Elites, #1)",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Never Let Me Go",
             "My Big Fat Zombie Goldfish",
             "Dragonflight (Dragonriders of Pern, #1)",
             "Glass Sword (Red Queen, #2)",
             "Warm Bodies (Warm Bodies, #1)",
             "Ender's Shadow (The Shadow Series, #1)",
-            "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "The Children of H\u00farin"
+            "Adhaata Asao's Liege",
+            "The Forever War (The Forever War, #1)"
         ],
-        "price": 79
+        "price": 48
     },
     {
         "title_complete": "Angels' Blood (Guild Hunter, #1)",
@@ -46945,19 +46945,19 @@
             "Magic Bleeds (Kate Daniels, #4)",
             "Rapture (Fallen, #4)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Claimed (Brides of the Kindred, #1)",
             "Shadow of Night (All Souls, #2)",
             "The Very Secret Society of Irregular Witches",
-            "Christine",
-            "Replay",
+            "Claimed (Brides of the Kindred, #1)",
             "The Evening and the Morning (Kingsbridge, #0)",
+            "Replay",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Christine",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "The Song of Achilles"
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "Max (Maximum Ride, #5)"
         ],
-        "price": 38
+        "price": 86
     },
     {
         "title_complete": "Ghost Story",
@@ -47656,20 +47656,20 @@
             "Christine",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "Destined for an Early Grave (Night Huntress, #4)",
-            "What Lies in the Woods",
             "The Eight (The Eight, #1)",
-            "Adhaata Asao's Liege",
+            "What Lies in the Woods",
             "Desert Outcast (Sovereign, #0.5)",
-            "Rapture (Fallen, #4)",
+            "Adhaata Asao's Liege",
             "Kiss the Girls (Alex Cross, #2)",
             "Warm Bodies (Warm Bodies, #1)",
             "Off the Grid (Joe Pickett, #16)",
             "The Pandarus File",
             "River God (Ancient Egypt, #1)",
+            "Rapture (Fallen, #4)",
             "Lost Identity (Remmich/Miller, #1)",
-            "Max (Maximum Ride, #5)"
+            "The Sign of Four (Sherlock Holmes, #2)"
         ],
-        "price": 78
+        "price": 74
     },
     {
         "title_complete": "Grendel",
@@ -48365,23 +48365,23 @@
             0
         ],
         "recommended_books": [
-            "Fathers and Sons",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
             "Uncle Tom\u2019s Cabin",
-            "The Children of H\u00farin",
             "The Winter of Our Discontent",
             "The Poisonwood Bible",
+            "The Children of H\u00farin",
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Fathers and Sons",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
+            "Never Let Me Go",
             "Dead Souls",
-            "Les Liaisons dangereuses",
             "Darkness at Noon",
+            "Exodus",
             "Ahab's Wife, or The Star-Gazer",
-            "An American Tragedy",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
-            "The Crystal Cave (Arthurian Saga, #1)"
+            "Women",
+            "An American Tragedy"
         ],
-        "price": 33
+        "price": 63
     },
     {
         "title_complete": "The Lady of the Tower (The Lydiard Chronicles, #1)",
@@ -49078,20 +49078,20 @@
             "The Evening and the Morning (Kingsbridge, #0)",
             "The Sunne in Splendour",
             "Magenta",
-            "My Brilliant Friend (The Neapolitan Novels, #1)",
             "The Song of Achilles",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "River God (Ancient Egypt, #1)",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "84, Charing Cross Road",
             "The Poisonwood Bible",
-            "Uncle Tom\u2019s Cabin",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
-            "Les Liaisons dangereuses",
-            "Grace (The Shackleford Sisters #1)",
+            "River God (Ancient Egypt, #1)",
             "The Sign of Four (Sherlock Holmes, #2)",
+            "Grace (The Shackleford Sisters #1)",
+            "Ahab's Wife, or The Star-Gazer",
+            "The Painter's Apprentice (Venetian Artisans, #1)",
+            "A Distant Mirror: The Calamitous 14th Century",
             "Exodus",
-            "The Crystal Cave (Arthurian Saga, #1)"
+            "Uncle Tom\u2019s Cabin"
         ],
-        "price": 99
+        "price": 58
     },
     {
         "title_complete": "The Secret History",
@@ -49788,22 +49788,22 @@
         ],
         "recommended_books": [
             "What Lies in the Woods",
-            "The Sign of Four (Sherlock Holmes, #2)",
             "Kiss the Girls (Alex Cross, #2)",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "Lost Identity (Remmich/Miller, #1)",
             "Off the Grid (Joe Pickett, #16)",
             "Never Let Me Go",
             "Christine",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
             "The Pandarus File",
-            "The Eight (The Eight, #1)",
-            "The Very Secret Society of Irregular Witches",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "Tomorrow, and Tomorrow, and Tomorrow",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
             "Punk 57",
-            "The Spanish Love Deception (Spanish Love Deception, #1)"
+            "The Winter of Our Discontent"
         ],
-        "price": 75
+        "price": 47
     },
     {
         "title_complete": "The Painter's Apprentice (Venetian Artisans, #1)",
@@ -50500,22 +50500,22 @@
         ],
         "recommended_books": [
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "The Poisonwood Bible",
             "Ahab's Wife, or The Star-Gazer",
+            "The Poisonwood Bible",
             "Magenta",
             "Grace (The Shackleford Sisters #1)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "Uncle Tom\u2019s Cabin",
             "Fathers and Sons",
             "Exodus",
+            "Tomorrow, and Tomorrow, and Tomorrow",
             "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Uncle Tom\u2019s Cabin",
             "Les Liaisons dangereuses",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "An American Tragedy",
-            "Dead Souls",
-            "From Manchester to the Arctic"
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "The Winter of Our Discontent",
+            "The Sunne in Splendour"
         ],
-        "price": 88
+        "price": 52
     },
     {
         "title_complete": "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
@@ -51211,23 +51211,23 @@
             0
         ],
         "recommended_books": [
-            "Dragonflight (Dragonriders of Pern, #1)",
             "Fantastic Beasts and Where to Find Them",
+            "Dragonflight (Dragonriders of Pern, #1)",
             "Oathbringer (The Stormlight Archive, #3)",
             "The Children of H\u00farin",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Glass Sword (Red Queen, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "Ender's Shadow (The Shadow Series, #1)",
+            "The Crystal Cave (Arthurian Saga, #1)",
             "The Young Elites (The Young Elites, #1)",
+            "Glass Sword (Red Queen, #2)",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "My Big Fat Zombie Goldfish",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)"
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Max (Maximum Ride, #5)"
         ],
-        "price": 31
+        "price": 46
     },
     {
         "title_complete": "Radio Silence",
@@ -51927,19 +51927,19 @@
             "The Sun Is Also a Star",
             "The Song of Achilles",
             "Tomorrow, and Tomorrow, and Tomorrow",
+            "Glass Sword (Red Queen, #2)",
+            "The Very Secret Society of Irregular Witches",
+            "Never Let Me Go",
             "Something Borrowed (Darcy & Rachel, #1)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Monsters of Men (Chaos Walking, #3)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
             "Punk 57",
-            "Never Let Me Go",
-            "Complicate Me (The Good Ol' Boys, #1)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Glass Sword (Red Queen, #2)",
-            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
-            "From Manchester to the Arctic"
+            "The Spanish Love Deception (Spanish Love Deception, #1)"
         ],
-        "price": 65
+        "price": 38
     },
     {
         "title_complete": "My Big Fat Zombie Goldfish",
@@ -52636,22 +52636,22 @@
         ],
         "recommended_books": [
             "Ender's Shadow (The Shadow Series, #1)",
-            "The Going To Bed Book",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Gathering Blue (The Giver, #2)",
-            "Adhaata Asao's Liege",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "The Going To Bed Book",
             "Desert Outcast (Sovereign, #0.5)",
-            "Yertle the Turtle and Other Stories",
-            "Little Owl's Night",
-            "Monsters of Men (Chaos Walking, #3)",
-            "Max (Maximum Ride, #5)",
-            "Little Blue Truck",
-            "Fantastic Beasts and Where to Find Them",
-            "The Children of H\u00farin",
+            "Adhaata Asao's Liege",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "The Children of H\u00farin",
+            "Creepy Carrots! (Creepy Tales!)",
+            "Max (Maximum Ride, #5)",
+            "Monsters of Men (Chaos Walking, #3)",
+            "Fantastic Beasts and Where to Find Them",
+            "Little Owl's Night",
+            "Little Blue Truck",
             "Replay"
         ],
-        "price": 94
+        "price": 71
     },
     {
         "title_complete": "Steve Jobs",
@@ -53347,23 +53347,23 @@
             0
         ],
         "recommended_books": [
-            "Just Kids",
             "84, Charing Cross Road",
+            "Just Kids",
             "I'm Glad My Mom Died",
             "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "Blood River: A Journey to Africa\u2019s Broken Heart",
             "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+            "Blood River: A Journey to Africa\u2019s Broken Heart",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
+            "The Art of Happiness",
+            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "Think and Grow Rich",
             "A Distant Mirror: The Calamitous 14th Century",
-            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
-            "The Art of Happiness",
-            "Lost Identity (Remmich/Miller, #1)",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)"
+            "Lost Identity (Remmich/Miller, #1)",
+            "Christine"
         ],
-        "price": 87
+        "price": 32
     },
     {
         "title_complete": "Kiss the Girls (Alex Cross, #2)",
@@ -54062,20 +54062,20 @@
             "What Lies in the Woods",
             "The Secret History",
             "Off the Grid (Joe Pickett, #16)",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "Christine",
             "The Pandarus File",
+            "Christine",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "Lost Identity (Remmich/Miller, #1)",
             "The Eight (The Eight, #1)",
             "Ghost Story",
-            "Oathbringer (The Stormlight Archive, #3)",
             "Replay",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Magic Bleeds (Kate Daniels, #4)",
+            "Punk 57",
             "Destined for an Early Grave (Night Huntress, #4)",
-            "Punk 57"
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Never Let Me Go"
         ],
-        "price": 98
+        "price": 49
     },
     {
         "title_complete": "A Distant Mirror: The Calamitous 14th Century",
@@ -54777,17 +54777,17 @@
             "84, Charing Cross Road",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "The Sunne in Splendour",
-            "Steve Jobs",
             "The Evening and the Morning (Kingsbridge, #0)",
+            "Steve Jobs",
             "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
+            "Monsters of Men (Chaos Walking, #3)",
+            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
             "I'm Glad My Mom Died",
-            "Ender's Shadow (The Shadow Series, #1)",
-            "Les Liaisons dangereuses",
-            "Just Kids",
-            "The Art of Happiness",
-            "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "Exodus",
+            "Ender's Shadow (The Shadow Series, #1)"
         ],
-        "price": 45
+        "price": 72
     },
     {
         "title_complete": "Complicate Me (The Good Ol' Boys, #1)",
@@ -55485,21 +55485,21 @@
         "recommended_books": [
             "Beautiful Disaster (Beautiful, #1)",
             "Punk 57",
-            "It Ain't Me, Babe (Hades Hangmen, #1)",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Tomorrow, and Tomorrow, and Tomorrow",
-            "Radio Silence",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Call Me By Your Name (Call Me By Your Name, #1)",
             "The Sun Is Also a Star",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
+            "Radio Silence",
+            "Tomorrow, and Tomorrow, and Tomorrow",
             "Inara (Godfrey Davis, #3)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Never Let Me Go",
-            "The Very Secret Society of Irregular Witches",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
             "From Manchester to the Arctic",
-            "The Pandarus File"
+            "The Very Secret Society of Irregular Witches"
         ],
-        "price": 96
+        "price": 58
     },
     {
         "title_complete": "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
@@ -56195,23 +56195,23 @@
             0
         ],
         "recommended_books": [
-            "The Young Elites (The Young Elites, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Rapture (Fallen, #4)",
+            "The Young Elites (The Young Elites, #1)",
             "Glass Sword (Red Queen, #2)",
-            "The Eight (The Eight, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "The Song of Achilles",
             "River God (Ancient Egypt, #1)",
-            "The Crystal Cave (Arthurian Saga, #1)",
+            "The Song of Achilles",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "Rapture (Fallen, #4)",
+            "The Eight (The Eight, #1)",
             "Shadow of Night (All Souls, #2)",
-            "Adhaata Asao's Liege",
+            "The Crystal Cave (Arthurian Saga, #1)",
             "Desert Outcast (Sovereign, #0.5)",
+            "Adhaata Asao's Liege",
             "Magenta",
-            "Les Liaisons dangereuses",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)"
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)"
         ],
-        "price": 35
+        "price": 67
     },
     {
         "title_complete": "Women",
@@ -56907,23 +56907,23 @@
             0
         ],
         "recommended_books": [
-            "An American Tragedy",
             "The Winter of Our Discontent",
-            "Uncle Tom\u2019s Cabin",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
-            "Dead Souls",
+            "An American Tragedy",
             "Darkness at Noon",
+            "Dead Souls",
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "Uncle Tom\u2019s Cabin",
+            "The Poisonwood Bible",
             "Fathers and Sons",
+            "Exodus",
+            "Yertle the Turtle and Other Stories",
+            "The Children of H\u00farin",
             "Les Liaisons dangereuses",
             "A Suitable Boy (A Bridge of Leaves, #1)",
             "Grendel",
-            "Yertle the Turtle and Other Stories",
-            "The Children of H\u00farin",
-            "Never Let Me Go",
-            "The Poisonwood Bible",
-            "Exodus"
+            "Never Let Me Go"
         ],
-        "price": 70
+        "price": 36
     },
     {
         "title_complete": "Dragonflight (Dragonriders of Pern, #1)",
@@ -57622,20 +57622,20 @@
             "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
             "Ender's Shadow (The Shadow Series, #1)",
             "The Children of H\u00farin",
-            "Max (Maximum Ride, #5)",
-            "Glass Sword (Red Queen, #2)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Fantastic Beasts and Where to Find Them",
-            "Monsters of Men (Chaos Walking, #3)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)",
-            "The Young Elites (The Young Elites, #1)",
-            "Oathbringer (The Stormlight Archive, #3)",
-            "Replay",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "The Forever War (The Forever War, #1)"
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "Glass Sword (Red Queen, #2)",
+            "Replay",
+            "Oathbringer (The Stormlight Archive, #3)",
+            "Max (Maximum Ride, #5)",
+            "Fantastic Beasts and Where to Find Them",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+            "Gathering Blue (The Giver, #2)",
+            "The Young Elites (The Young Elites, #1)",
+            "The Forever War (The Forever War, #1)",
+            "Monsters of Men (Chaos Walking, #3)"
         ],
-        "price": 35
+        "price": 42
     },
     {
         "title_complete": "The Song of Achilles",
@@ -58331,23 +58331,23 @@
             0
         ],
         "recommended_books": [
-            "River God (Ancient Egypt, #1)",
             "The Evening and the Morning (Kingsbridge, #0)",
+            "River God (Ancient Egypt, #1)",
+            "The Crystal Cave (Arthurian Saga, #1)",
+            "Radio Silence",
+            "The Eight (The Eight, #1)",
             "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "Shadow of Night (All Souls, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)",
-            "The Eight (The Eight, #1)",
-            "Radio Silence",
+            "Adhaata Asao's Liege",
             "The Lady of the Tower (The Lydiard Chronicles, #1)",
             "Desert Outcast (Sovereign, #0.5)",
-            "Adhaata Asao's Liege",
             "Magenta",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Angels' Blood (Guild Hunter, #1)",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "Grace (The Shackleford Sisters #1)"
+            "Monsters of Men (Chaos Walking, #3)",
+            "The Sunne in Splendour",
+            "Grace (The Shackleford Sisters #1)",
+            "The Very Secret Society of Irregular Witches"
         ],
-        "price": 53
+        "price": 58
     },
     {
         "title_complete": "Inara (Godfrey Davis, #3)",
@@ -59038,21 +59038,21 @@
         "recommended_books": [
             "From Manchester to the Arctic",
             "Lost Identity (Remmich/Miller, #1)",
-            "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "Women",
             "Never Let Me Go",
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "Grace (The Shackleford Sisters #1)",
             "Complicate Me (The Good Ol' Boys, #1)",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "Grace (The Shackleford Sisters #1)",
+            "Women",
             "Honor and Polygamy",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
-            "Uncle Tom\u2019s Cabin",
-            "An American Tragedy",
-            "Dead Souls",
-            "The Sun Is Also a Star"
+            "The Very Secret Society of Irregular Witches",
+            "Replay",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "Little Owl's Night",
+            "Exodus",
+            "Uncle Tom\u2019s Cabin"
         ],
-        "price": 67
+        "price": 92
     },
     {
         "title_complete": "Honor and Polygamy",
@@ -59742,23 +59742,23 @@
             0
         ],
         "recommended_books": [
-            "Adhaata Asao's Liege",
             "Lost Identity (Remmich/Miller, #1)",
             "Desert Outcast (Sovereign, #0.5)",
+            "Adhaata Asao's Liege",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Punk 57",
-            "Something Borrowed (Darcy & Rachel, #1)",
-            "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "Darkness at Noon",
-            "Call Me By Your Name (Call Me By Your Name, #1)",
-            "From Manchester to the Arctic",
-            "Radio Silence",
+            "What Lies in the Woods",
+            "Beautiful Disaster (Beautiful, #1)",
             "Never Let Me Go",
-            "The Secret History",
-            "It Ain't Me, Babe (Hades Hangmen, #1)",
-            "What Lies in the Woods"
+            "My Brilliant Friend (The Neapolitan Novels, #1)",
+            "Something Borrowed (Darcy & Rachel, #1)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
+            "Darkness at Noon",
+            "The Very Secret Society of Irregular Witches",
+            "Punk 57",
+            "It Ain't Me, Babe (Hades Hangmen, #1)"
         ],
-        "price": 54
+        "price": 55
     },
     {
         "title_complete": "A Suitable Boy (A Bridge of Leaves, #1)",
@@ -60455,22 +60455,22 @@
         ],
         "recommended_books": [
             "Les Liaisons dangereuses",
-            "Exodus",
             "Uncle Tom\u2019s Cabin",
             "The Poisonwood Bible",
-            "Ahab's Wife, or The Star-Gazer",
+            "Exodus",
             "An American Tragedy",
             "Grace (The Shackleford Sisters #1)",
-            "Dead Souls",
-            "Darkness at Noon",
             "Fathers and Sons",
+            "Dead Souls",
+            "Ahab's Wife, or The Star-Gazer",
+            "Darkness at Noon",
             "Magenta",
+            "The Winter of Our Discontent",
             "The Evening and the Morning (Kingsbridge, #0)",
-            "Grendel",
-            "The Life and Opinions of Tristram Shandy, Gentleman",
-            "The Sign of Four (Sherlock Holmes, #2)"
+            "River God (Ancient Egypt, #1)",
+            "The Life and Opinions of Tristram Shandy, Gentleman"
         ],
-        "price": 87
+        "price": 91
     },
     {
         "title_complete": "Magic Bleeds (Kate Daniels, #4)",
@@ -61166,23 +61166,23 @@
             0
         ],
         "recommended_books": [
-            "Angels' Blood (Guild Hunter, #1)",
             "Destined for an Early Grave (Night Huntress, #4)",
+            "Angels' Blood (Guild Hunter, #1)",
             "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Shadow of Night (All Souls, #2)",
             "The Very Secret Society of Irregular Witches",
+            "Shadow of Night (All Souls, #2)",
+            "Christine",
             "Claimed (Brides of the Kindred, #1)",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Oathbringer (The Stormlight Archive, #3)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
             "Rapture (Fallen, #4)",
-            "Christine",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
-            "The Young Elites (The Young Elites, #1)",
-            "Fantastic Beasts and Where to Find Them"
+            "Fantastic Beasts and Where to Find Them",
+            "The Evening and the Morning (Kingsbridge, #0)"
         ],
-        "price": 70
+        "price": 45
     },
     {
         "title_complete": "Marry Christmas",
@@ -61869,23 +61869,23 @@
             0
         ],
         "recommended_books": [
-            "Gathering Blue (The Giver, #2)",
-            "Yertle the Turtle and Other Stories",
-            "My Big Fat Zombie Goldfish",
-            "Radio Silence",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
-            "The Secret History",
-            "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Grendel",
-            "Ghost Story",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Kiss the Girls (Alex Cross, #2)",
-            "Adhaata Asao's Liege",
-            "Magenta",
-            "Monsters of Men (Chaos Walking, #3)"
+            "Never Let Me Go",
+            "Uncle Tom\u2019s Cabin",
+            "The Poisonwood Bible",
+            "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "What Lies in the Woods",
+            "Exodus",
+            "84, Charing Cross Road",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Beautiful Disaster (Beautiful, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Little Owl's Night",
+            "Claimed (Brides of the Kindred, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)"
         ],
-        "price": 36
+        "price": 67
     },
     {
         "title_complete": "Warm Bodies (Warm Bodies, #1)",
@@ -62582,22 +62582,22 @@
         ],
         "recommended_books": [
             "Max (Maximum Ride, #5)",
-            "The Young Elites (The Young Elites, #1)",
-            "Monsters of Men (Chaos Walking, #3)",
             "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Claimed (Brides of the Kindred, #1)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Glass Sword (Red Queen, #2)",
+            "Monsters of Men (Chaos Walking, #3)",
+            "The Young Elites (The Young Elites, #1)",
             "Rapture (Fallen, #4)",
+            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Claimed (Brides of the Kindred, #1)",
+            "Glass Sword (Red Queen, #2)",
             "Gathering Blue (The Giver, #2)",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Christine",
-            "Shadow of Night (All Souls, #2)"
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Never Let Me Go"
         ],
-        "price": 57
+        "price": 40
     },
     {
         "title_complete": "Ahab's Wife, or The Star-Gazer",
@@ -63296,20 +63296,20 @@
             "The Poisonwood Bible",
             "The Painter's Apprentice (Venetian Artisans, #1)",
             "Tomorrow, and Tomorrow, and Tomorrow",
-            "Fathers and Sons",
             "Grace (The Shackleford Sisters #1)",
-            "A Suitable Boy (A Bridge of Leaves, #1)",
+            "Uncle Tom\u2019s Cabin",
             "Exodus",
+            "Fathers and Sons",
+            "A Suitable Boy (A Bridge of Leaves, #1)",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
             "Les Liaisons dangereuses",
-            "Uncle Tom\u2019s Cabin",
             "Magenta",
-            "Grendel",
-            "Darkness at Noon",
             "Something Borrowed (Darcy & Rachel, #1)",
-            "The Life and Opinions of Tristram Shandy, Gentleman"
+            "The Life and Opinions of Tristram Shandy, Gentleman",
+            "An American Tragedy",
+            "The Winter of Our Discontent"
         ],
-        "price": 49
+        "price": 75
     },
     {
         "title_complete": "Dear Barack: The Extraordinary Partnership of Barack Obama and Angela Merkel",
@@ -64004,23 +64004,23 @@
             0
         ],
         "recommended_books": [
-            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "Blood River: A Journey to Africa\u2019s Broken Heart",
-            "84, Charing Cross Road",
+            "The Rise and Fall of the Third Reich: A History of Nazi Germany",
             "The Art of Happiness",
             "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+            "84, Charing Cross Road",
             "Steve Jobs",
+            "I'm Glad My Mom Died",
             "Just Kids",
             "A Distant Mirror: The Calamitous 14th Century",
-            "I'm Glad My Mom Died",
             "Honor and Polygamy",
+            "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+            "Darkness at Noon",
             "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "Tomorrow, and Tomorrow, and Tomorrow",
             "Think and Grow Rich",
-            "Ahab's Wife, or The Star-Gazer",
-            "Darkness at Noon"
+            "Grace (The Shackleford Sisters #1)"
         ],
-        "price": 77
+        "price": 80
     },
     {
         "title_complete": "The Eight (The Eight, #1)",
@@ -64717,22 +64717,22 @@
         ],
         "recommended_books": [
             "River God (Ancient Egypt, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
             "Off the Grid (Joe Pickett, #16)",
+            "The Evening and the Morning (Kingsbridge, #0)",
             "The Pandarus File",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Ghost Story",
-            "Kiss the Girls (Alex Cross, #2)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "Christine",
-            "The Song of Achilles",
-            "The Sign of Four (Sherlock Holmes, #2)",
-            "The Crystal Cave (Arthurian Saga, #1)",
             "What Lies in the Woods",
+            "Christine",
+            "The Crystal Cave (Arthurian Saga, #1)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "Kiss the Girls (Alex Cross, #2)",
+            "The Song of Achilles",
+            "Ghost Story",
+            "The Sign of Four (Sherlock Holmes, #2)",
             "Lost Identity (Remmich/Miller, #1)",
             "Adhaata Asao's Liege"
         ],
-        "price": 79
+        "price": 97
     },
     {
         "title_complete": "The Unholy Grave (The Lost Artefacts, #3)",
@@ -65419,23 +65419,23 @@
             0
         ],
         "recommended_books": [
-            "Gathering Blue (The Giver, #2)",
-            "Yertle the Turtle and Other Stories",
-            "My Big Fat Zombie Goldfish",
-            "Radio Silence",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "The Painter's Apprentice (Venetian Artisans, #1)",
-            "The Secret History",
-            "The Lady of the Tower (The Lydiard Chronicles, #1)",
-            "Grendel",
-            "Ghost Story",
-            "Angels' Blood (Guild Hunter, #1)",
-            "Kiss the Girls (Alex Cross, #2)",
-            "Adhaata Asao's Liege",
-            "Magenta",
-            "Monsters of Men (Chaos Walking, #3)"
+            "Never Let Me Go",
+            "Uncle Tom\u2019s Cabin",
+            "The Poisonwood Bible",
+            "Blood River: A Journey to Africa\u2019s Broken Heart",
+            "Ender's Shadow (The Shadow Series, #1)",
+            "What Lies in the Woods",
+            "Exodus",
+            "84, Charing Cross Road",
+            "It Ain't Me, Babe (Hades Hangmen, #1)",
+            "Beautiful Disaster (Beautiful, #1)",
+            "The Very Secret Society of Irregular Witches",
+            "Little Owl's Night",
+            "Claimed (Brides of the Kindred, #1)",
+            "Destined for an Early Grave (Night Huntress, #4)",
+            "The Spanish Love Deception (Spanish Love Deception, #1)"
         ],
-        "price": 75
+        "price": 39
     },
     {
         "title_complete": "The Going To Bed Book",
@@ -66136,18 +66136,18 @@
             "Yertle the Turtle and Other Stories",
             "Creepy Carrots! (Creepy Tales!)",
             "My Big Fat Zombie Goldfish",
-            "Women",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "Dead Souls",
+            "From Manchester to the Arctic",
             "The Children of H\u00farin",
             "The Life and Opinions of Tristram Shandy, Gentleman",
-            "From Manchester to the Arctic",
-            "Dead Souls",
-            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Ender's Shadow (The Shadow Series, #1)",
-            "Lost Identity (Remmich/Miller, #1)",
-            "Desert Outcast (Sovereign, #0.5)"
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "Women",
+            "Desert Outcast (Sovereign, #0.5)",
+            "Lost Identity (Remmich/Miller, #1)"
         ],
-        "price": 65
+        "price": 33
     },
     {
         "title_complete": "Off the Grid (Joe Pickett, #16)",
@@ -66845,21 +66845,21 @@
         "recommended_books": [
             "What Lies in the Woods",
             "Kiss the Girls (Alex Cross, #2)",
-            "The Secret History",
             "The Sign of Four (Sherlock Holmes, #2)",
+            "The Secret History",
             "The Eight (The Eight, #1)",
             "The Pandarus File",
             "Lost Identity (Remmich/Miller, #1)",
             "Christine",
             "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
-            "River God (Ancient Egypt, #1)",
             "Ghost Story",
+            "River God (Ancient Egypt, #1)",
+            "From Manchester to the Arctic",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "Oathbringer (The Stormlight Archive, #3)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)"
+            "Glass Sword (Red Queen, #2)",
+            "Ender's Shadow (The Shadow Series, #1)"
         ],
-        "price": 61
+        "price": 82
     },
     {
         "title_complete": "The Pandarus File",
@@ -67555,23 +67555,23 @@
             0
         ],
         "recommended_books": [
+            "What Lies in the Woods",
             "Kiss the Girls (Alex Cross, #2)",
             "The Eight (The Eight, #1)",
             "Off the Grid (Joe Pickett, #16)",
-            "What Lies in the Woods",
-            "The Secret History",
             "Christine",
+            "The Secret History",
             "Lost Identity (Remmich/Miller, #1)",
-            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
-            "From Manchester to the Arctic",
-            "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "Ghost Story",
-            "The Sign of Four (Sherlock Holmes, #2)",
             "Don't Judge a Girl by Her Cover (Gallagher Girls, #3)",
+            "The Sign of Four (Sherlock Holmes, #2)",
+            "Ghost Story",
+            "The Spanish Love Deception (Spanish Love Deception, #1)",
+            "Hollow City (Miss Peregrine's Peculiar Children, #2)",
             "River God (Ancient Egypt, #1)",
-            "Something Borrowed (Darcy & Rachel, #1)"
+            "From Manchester to the Arctic",
+            "Glass Sword (Red Queen, #2)"
         ],
-        "price": 81
+        "price": 100
     },
     {
         "title_complete": "The Young Elites (The Young Elites, #1)",
@@ -68269,21 +68269,21 @@
         "recommended_books": [
             "Glass Sword (Red Queen, #2)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Monsters of Men (Chaos Walking, #3)",
-            "Gathering Blue (The Giver, #2)",
+            "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
             "Max (Maximum Ride, #5)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "Gathering Blue (The Giver, #2)",
             "Warm Bodies (Warm Bodies, #1)",
-            "Rapture (Fallen, #4)",
-            "Replay",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "Dragonflight (Dragonriders of Pern, #1)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
             "Oathbringer (The Stormlight Archive, #3)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
+            "Fantastic Beasts and Where to Find Them",
             "Never Let Me Go",
-            "The Very Secret Society of Irregular Witches"
+            "The Very Secret Society of Irregular Witches",
+            "Ender's Shadow (The Shadow Series, #1)"
         ],
-        "price": 32
+        "price": 93
     },
     {
         "title_complete": "The Crystal Cave (Arthurian Saga, #1)",
@@ -68981,21 +68981,21 @@
         "recommended_books": [
             "River God (Ancient Egypt, #1)",
             "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "The Children of H\u00farin",
             "Oathbringer (The Stormlight Archive, #3)",
-            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
+            "The Children of H\u00farin",
             "The Song of Achilles",
+            "Eragon, Eldest & Brisingr (Inheritance, #1-3)",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "The Eight (The Eight, #1)",
             "Dragonflight (Dragonriders of Pern, #1)",
             "Adhaata Asao's Liege",
             "Desert Outcast (Sovereign, #0.5)",
             "Magenta",
-            "Siege and Storm (The Shadow and Bone Trilogy, #2)",
-            "Grendel"
+            "Uncle Tom\u2019s Cabin",
+            "The Poisonwood Bible"
         ],
-        "price": 56
+        "price": 99
     },
     {
         "title_complete": "Tomorrow, and Tomorrow, and Tomorrow",
@@ -69693,21 +69693,21 @@
         "recommended_books": [
             "Something Borrowed (Darcy & Rachel, #1)",
             "Call Me By Your Name (Call Me By Your Name, #1)",
-            "Ahab's Wife, or The Star-Gazer",
             "Never Let Me Go",
+            "Ahab's Wife, or The Star-Gazer",
             "My Brilliant Friend (The Neapolitan Novels, #1)",
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
-            "Radio Silence",
             "The Spanish Love Deception (Spanish Love Deception, #1)",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "The Secret History",
             "The Very Secret Society of Irregular Witches",
-            "Punk 57",
-            "Complicate Me (The Good Ol' Boys, #1)",
+            "The Secret History",
+            "Radio Silence",
+            "The Evening and the Morning (Kingsbridge, #0)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Grace (The Shackleford Sisters #1)",
-            "Replay"
+            "Beautiful Disaster (Beautiful, #1)",
+            "Replay",
+            "Punk 57"
         ],
-        "price": 41
+        "price": 67
     },
     {
         "title_complete": "Shadow of Night (All Souls, #2)",
@@ -70403,23 +70403,23 @@
             0
         ],
         "recommended_books": [
-            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "The Very Secret Society of Irregular Witches",
-            "Angels' Blood (Guild Hunter, #1)",
+            "A Witch's Guide to Fake Dating a Demon (Glimmer Falls, #1)",
             "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+            "Angels' Blood (Guild Hunter, #1)",
             "Magic Bleeds (Kate Daniels, #4)",
-            "The Song of Achilles",
-            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
-            "Destined for an Early Grave (Night Huntress, #4)",
-            "Replay",
             "Hollow City (Miss Peregrine's Peculiar Children, #2)",
+            "Destined for an Early Grave (Night Huntress, #4)",
+            "The Song of Achilles",
             "The Evening and the Morning (Kingsbridge, #0)",
+            "The Wrath and the Dawn (The Wrath and the Dawn, #1)",
             "The Young Elites (The Young Elites, #1)",
+            "Replay",
             "Desert Outcast (Sovereign, #0.5)",
             "Adhaata Asao's Liege",
-            "Max (Maximum Ride, #5)"
+            "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)"
         ],
-        "price": 84
+        "price": 54
     },
     {
         "title_complete": "Les Liaisons dangereuses",
@@ -71116,21 +71116,21 @@
         ],
         "recommended_books": [
             "A Suitable Boy (A Bridge of Leaves, #1)",
-            "Exodus",
             "Uncle Tom\u2019s Cabin",
             "The Poisonwood Bible",
+            "Exodus",
             "The Life and Opinions of Tristram Shandy, Gentleman",
-            "An American Tragedy",
             "Grace (The Shackleford Sisters #1)",
-            "Dead Souls",
-            "Ahab's Wife, or The Star-Gazer",
-            "Darkness at Noon",
             "Fathers and Sons",
+            "An American Tragedy",
+            "Ahab's Wife, or The Star-Gazer",
+            "Dead Souls",
+            "Darkness at Noon",
             "Magenta",
-            "The Evening and the Morning (Kingsbridge, #0)",
-            "Grendel",
-            "The Sign of Four (Sherlock Holmes, #2)"
+            "The Winter of Our Discontent",
+            "The Sign of Four (Sherlock Holmes, #2)",
+            "The Evening and the Morning (Kingsbridge, #0)"
         ],
-        "price": 77
+        "price": 31
     }
 ]
