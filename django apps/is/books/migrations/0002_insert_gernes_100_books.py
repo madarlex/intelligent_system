@@ -20,7 +20,9 @@ def load_data(apps, schema_editor):
     Book = apps.get_model("books", "Book")
 
     # Load genres from genres.json and create Genre entries
-    genres_file_path = Path(__file__).resolve().parent.parent.parent / "genres.json"
+    genres_file_path = (
+        Path(__file__).resolve().parent.parent.parent / "data/genres.json"
+    )
     with open(genres_file_path, "r") as f:
         genres = json.load(f)
         genre_map = {}  # Dictionary to map genre names to Genre objects
@@ -31,7 +33,7 @@ def load_data(apps, schema_editor):
     # Load books from books_data.json and create Book entries
     books_file_path = (
         Path(__file__).resolve().parent.parent.parent
-        / "books_data_with_recommendations.json"
+        / "data/books_data_with_recommendations.json"
     )
     with open(books_file_path, "r") as f:
         books = json.load(f)

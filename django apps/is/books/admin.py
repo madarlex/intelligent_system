@@ -56,7 +56,7 @@ class BookAdmin(admin.ModelAdmin):
 
     def save_model(self, request, obj, form, change):
         # Load the MultiLabelBinarizer
-        with open("mlb_genres.pkl", "rb") as f:
+        with open("./data/mlb_genres.pkl", "rb") as f:
             mlb = pickle.load(f)
 
         if not change:
